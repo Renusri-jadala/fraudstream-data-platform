@@ -42,31 +42,6 @@ SQL Analytics / Dashboard
 
 ---
 
-## 📂 Project Structure
-fraudstream-data-platform/
-│
-├── producer/
-│ └── transaction_generator.py
-│
-├── streaming/
-│ ├── 01_bronze_layer.py
-│ ├── 02_silver_layer.py
-│ ├── 03_fraud_rules_engine.py
-│ └── 04_gold_layer.py
-│
-├── config/
-│ └── config.py
-│
-├── docs/
-│ └── architecture.md
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
-
----
-
 ## 🔥 Key Features
 
 - Real-time transaction ingestion
